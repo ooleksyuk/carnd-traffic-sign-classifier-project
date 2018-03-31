@@ -1,7 +1,6 @@
-<a href="#top">## Deep Learning: Traffic Sign Recognition Classifier</a>
----
+## <a name="top"></a> Deep Learning: Traffic Sign Recognition Classifier [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
 
-**Traffic Sign Recognition Project** [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+**Traffic Sign Recognition Project** 
 
 The goals / steps of this project are the following:
 * Load the data set (see below for links to the project data set)
@@ -11,9 +10,7 @@ The goals / steps of this project are the following:
 * Analyze the softmax probabilities of the new images
 * Summarize the results with a written report
 
-
 [//]: # (Image References)
-
 [image1]: ./examples/visualization.jpg "Visualization"
 [image2]: ./examples/grayscale.jpg "Grayscaling"
 [image3]: ./examples/random_noise.jpg "Random Noise"
@@ -27,9 +24,9 @@ The goals / steps of this project are the following:
 [image11]: ./examples/new_images_example.png "New image examples"
 
 ## Rubric Points
+
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.
 
----
 ### Writeup / README
 
 #### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.

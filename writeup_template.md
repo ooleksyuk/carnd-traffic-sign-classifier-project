@@ -1,13 +1,7 @@
-#**Traffic Sign Recognition** 
+### Deep Learning: Traffic Sign Recognition Classifier
+#### Self-Driving Car Engineer NanoDegree
 
-## Self-Driving Car Engineer Nanodegree
-
-### Deep Learning
-
-#### Project: Build a Traffic Sign Recognition Classifier
-
-###You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
-
+Overview
 ---
 
 **Build a Traffic Sign Recognition Project**

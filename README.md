@@ -1,8 +1,7 @@
-## ```(#top)``` Deep Learning: Traffic Sign Recognition Classifier
-[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+[top] ## Deep Learning: Traffic Sign Recognition Classifier
 ---
 
-**Build a Traffic Sign Recognition Project**
+**Traffic Sign Recognition Project** [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
 
 The goals / steps of this project are the following:
 * Load the data set (see below for links to the project data set)

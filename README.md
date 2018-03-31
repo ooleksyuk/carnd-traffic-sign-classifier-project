@@ -1,5 +1,6 @@
-#`Deep Learning: Traffic Sign Recognition Classifier` 
+## ```(#top)``` Deep Learning: Traffic Sign Recognition Classifier
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+---
 
 **Build a Traffic Sign Recognition Project**
 

@@ -24,9 +24,6 @@ The goals / steps of this project are the following:
 [image11]: ./examples/new_images_example.png "New image examples"
 
 ## Rubric Points
-
-### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.
-
 ### Writeup / README
 
 #### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.
@@ -121,8 +118,7 @@ print("Training...")
 ```
 
 #### Solution Approach: The submission describes the approach to finding a solution. Accuracy on the validation set is 0.93 or greater.
-#### My Final Validation Accuracy = 0.999
-#### My Test Set Accuracy = 0.951
+#### My Final Validation Accuracy = 0.999. My Test Set Accuracy = 0.951
 
 ### Test a Model on New Images:
 #### Acquiring New Images: The submission includes five new German Traffic signs found on the web, and the images are visualized. Discussion is made as to particular qualities of the images or traffic signs in the images that are of interest, such as whether they would be difficult for the model to classify.
@@ -159,7 +155,7 @@ for i in range(n_classes):
     print()
 ```
 Results were:
-```python
+```
 Class Roundabout mandatory:
   Accuracy = 93.33%
   Precision = 98.82%
